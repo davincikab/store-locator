@@ -1,0 +1,12 @@
+{
+  "name": "store-locator",
+  "displayName": "store-locator",
+  "expo": {
+    "name": "store-locator",
+    "slug": "store-locator",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
